@@ -11,14 +11,14 @@ A simple, developer-friendly Go package for interacting with the OpenAI ChatGPT 
 ## Installation
 
 ```bash
-go get -u github.com/yourusername/chatgpt
+go get -u github.com/garydevenay/go-chatgpt-client
 ```
 
 ## Usage
 First, import the package:
 
 ```go
-import "github.com/yourusername/chatgpt"
+import "github.com/garydevenay/go-chatgpt-client"
 ```
 Then, create a new ChatGPT client with your API key:
 
@@ -43,7 +43,7 @@ fmt.Println(response)
 You can use the same client to send more messages and have an interactive conversation with ChatGPT.
 
 ## Documentation
-For detailed information about the ChatGPT API, structs, and functions, see the [Godoc Documentation](https://pkg.go.dev/github.com/garydevenay/chatgpt).
+For detailed information about the ChatGPT API, structs, and functions, see the [Godoc Documentation](https://pkg.go.dev/github.com/garydevenay/go-chatgpt-client).
 
 License
 MIT
