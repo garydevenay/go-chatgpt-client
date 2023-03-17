@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/garydevenay/chatgpt"
+	"github.com/garydevenay/go-chatgpt-client"
 	"github.com/jarcoal/httpmock"
 )
 
