@@ -1,3 +1,5 @@
+[![GoDoc](https://pkg.go.dev/badge/github.com/garydevenay/go-chatgpt-client)](https://pkg.go.dev/github.com/garydevenay/go-chatgpt-client)
+
 # ChatGPT
 
 A simple, developer-friendly Go package for interacting with the OpenAI ChatGPT API.
